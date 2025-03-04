@@ -12,7 +12,7 @@ will be applied as:
 to create new mixed-weather datasets.
 
 ## Dataset Links:
-1. IDD Lane Detection Dataset
-2. IDD Segmentation Dataset
-3. IDD Traffic Sign Detection Dataset
-4. IDD Adverse Weather Dataset
+1. CULane Detection Dataset: https://xingangpan.github.io/projects/CULane.html
+2. IDD Segmentation Dataset: IDD Segmentation (IDD 20k Part I) (18.5 GB)
+3. IDD Traffic Sign Detection: Dataset: MissingTSMini (2.2 GB)
+4. IDD Adverse Weather Dataset: IDD-AW (19 GB)
