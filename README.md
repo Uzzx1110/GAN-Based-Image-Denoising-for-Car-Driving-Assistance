@@ -6,7 +6,7 @@ For denoising, you will use the IDD dataset, which contains separate folders for
 you aim to tackle the challenge of combining multiple adverse weather effects (e.g., foggy and rainy) by leveraging a latent space arithmetic approach inspired by the DCGAN paper. 
 
 This method, analogous to:
-"Man with glasses" - "Man without glasses" + "Women without glasses" = "Women with glasses",
+#### "Man with glasses" - "Man without glasses" + "Women without glasses" = "Women with glasses",
 will be applied as:
-"Foggy Image" - "Normal Image" + "Rainy Image" = "Foggy and Rainy Image"
+#### "Foggy Image" - "Normal Image" + "Rainy Image" = "Foggy and Rainy Image"
 to create new mixed-weather datasets.
