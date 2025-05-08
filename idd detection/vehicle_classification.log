@@ -1,0 +1,15 @@
+2025-04-22 21:28:08,682 - INFO - Found 3535 XML files. Processing...
+2025-04-22 21:32:44,032 - INFO - 
+Class distribution:
+2025-04-22 21:32:44,035 - INFO -             car: 5113
+2025-04-22 21:32:44,037 - INFO -           truck: 1010
+2025-04-22 21:32:44,041 - INFO -      motorcycle: 3428
+2025-04-22 21:32:44,042 - INFO -             bus: 797
+2025-04-22 21:32:44,042 - INFO -         bicycle: 0
+2025-04-22 21:32:44,053 - INFO -      background: 0
+2025-04-22 21:32:44,656 - INFO - 
+Train set: 8278 samples
+2025-04-22 21:32:44,658 - INFO - Test set: 2070 samples
+2025-04-22 21:32:44,658 - INFO - Training classifier...
+2025-04-22 21:35:53,200 - ERROR - Error in training/evaluation: Number of classes, 4, does not match size of target_names, 6. Try specifying the labels parameter
+2025-04-22 21:35:53,226 - ERROR - Fatal error in main execution: Failed to train classifier

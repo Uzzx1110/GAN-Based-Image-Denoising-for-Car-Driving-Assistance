@@ -1,0 +1,1 @@
+left-hand-curve: 255,240,26,24

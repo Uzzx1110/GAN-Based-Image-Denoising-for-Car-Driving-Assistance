@@ -1,0 +1,16 @@
+path: c:/Users/DELL/Documents/GitHub/AutonomousDrivingGanMV/dataset
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: gap-in-median
+  1: left-hand-curve
+  2: right-hand-curve
+  3: side-road-left
+nc: 4
+stats:
+  class_distribution:
+    gap-in-median: 540
+    left-hand-curve: 540
+    right-hand-curve: 540
+    side-road-left: 380

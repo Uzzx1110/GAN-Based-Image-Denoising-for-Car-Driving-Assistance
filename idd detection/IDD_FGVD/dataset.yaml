@@ -1,0 +1,6 @@
+path: C:/Users/Sejal Hanmante/OneDrive/Desktop/idd detection/IDD_FGVD  # Root directory of the dataset
+train: train/images  # Path to train images
+val: val/images  # Path to validation images
+test: test/images  # Path to test images
+nc: 7   #Number of classes
+names: ['car', 'truck', 'bus', 'autorickshaw', 'motorcycle', 'bicycle', 'mini-bus']

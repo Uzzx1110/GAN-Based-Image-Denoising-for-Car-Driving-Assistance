@@ -1,0 +1,1 @@
+left-hand-curve: 326,286,21,20

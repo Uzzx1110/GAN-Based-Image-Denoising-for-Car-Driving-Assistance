@@ -1,0 +1,1 @@
+right-hand-curve: 296,259,24,28
